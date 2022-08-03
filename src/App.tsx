@@ -26,7 +26,7 @@ function App() {
     }, [])
 
 
-    return (
+     return (
         <div className={'App'}>
             <Button title={'CleanPage'} callBack={getRequestHandler}/>
             <p>
